@@ -6,7 +6,7 @@
 - 🌱 I’m currently learning **backend and framework**
 
 - 📫 How to reach me **bivekbhattarai08@gmail.com**
-
+<img align="right" width="200" height="200" src="https://www.google.com/imgres?imgurl=https%3A%2F%2Fmedia.tenor.com%2FwhgQwNlVvNkAAAAj%2Fxero-code.gif&tbnid=sVKKE35BHJlYmM&vet=12ahUKEwiWmM_Wi86EAxU5amwGHVHwC5EQMygRegUIARCTAQ..i&imgrefurl=https%3A%2F%2Ftenor.com%2Fsearch%2Fprogramming-gifs&docid=_4Gry3oG9aja5M&w=200&h=166&q=coding%20gif&ved=2ahUKEwiWmM_Wi86EAxU5amwGHVHwC5EQMygRegUIARCTAQ" alt="gif">
 
 # 💻 Tech Stack:
 ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
