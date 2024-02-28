@@ -6,7 +6,7 @@
 - 🌱 I’m currently learning **backend and framework**
 
 - 📫 How to reach me **bivekbhattarai08@gmail.com**
-<img src="![image](https://github.com/BibekBhattarai08/BibekBhattarai08/assets/161472634/449e6fdf-272b-4cca-9c0e-6b3b276604e2)
+<img src="https://analyticsindiamag.com/wp-content/uploads/2018/12/developer-dribbble.gif
 " align="right" alt="gif" width="400">
 
 
