@@ -1,7 +1,11 @@
-### Hi there 👋
+<h1 align="center">Hi 👋, I'm Bibek Bhattarai</h1>
+<h3 align="center">A passionate frontend developer from Nepal.</h3>
 
-# 💫 About Me:
- 
+- 🔭 I’m currently making a [portfolio] (itwillbeavailablesoon)
+
+- 🌱 I’m currently learning **backend and framework**
+
+- 📫 How to reach me **bivekbhattarai08@gmail.com**
 
 
 # 💻 Tech Stack:
@@ -13,9 +17,11 @@
 
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=BibekBhattarai08&limit=5&theme=dark&combine_all_yearly_contributions=true)
+<h3 align="left">Support:</h3>
+<p><a href="https://www.buymeacoffee.com/bibekbhattarai08"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="bibekbhattarai08" /></a></p><br><br>
 
 ### 😂 Random Dev Meme
-<img src='https://randommeme-five.vercel.app/' style="height: 400px;"/>
+<img src='https://randommeme-five.vercel.app/' style="height: 200px;"/>
 
 ---
 [![](https://visitcount.itsvg.in/api?id=BibekBhattarai08&icon=0&color=0)](https://visitcount.itsvg.in)
